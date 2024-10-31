@@ -5,6 +5,6 @@ I know how to use SQL, Chrome DevTools, Jira, Postman, GIT, JSON, HTML/CSS basic
 
 👉 Please, visit my [PORTFOLIO repository](https://github.com/MichalPwlk/Portfolio) to see more
 
-To expand my testing skills I am currently focusing on Cybersecurity. From over month I'm taking lessons/rooms on Try Hack Me platform and since 26th of August 2024 I've started "OTWA" course (Offensive Web Application Testing), which I am very excited about 😁
+To expand my manual testing skills I am currently focusing on Cybersecurity. I'm taking lessons/rooms on Try Hack Me platform and just finnised "OTWA" course (Offensive Web Application Testing), which gave me a great foundation in this Industry 😁
 
 Come and see my [Delelopment Path HERE](https://github.com/MichalPwlk/DevelopmentPath) 🚀
